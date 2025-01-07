@@ -1,4 +1,7 @@
 # UFC Fight Analysis: Predicting Outcomes with Data
+<h1 align="center">UFC Fight Analysis: Predicting Outcomes with Data
+</h1>
+
 
 <div align="center">
   <img src="UFC image.jpeg">
