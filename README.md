@@ -1,4 +1,3 @@
-
 # UFC Fight Analysis: Predicting Outcomes with Data
 
 ## Overview
